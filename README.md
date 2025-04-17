@@ -1,9 +1,6 @@
-# Email_Camp
-# 📧 Email Campaign Optimizer
-
 This project analyzes the performance of an email marketing campaign and applies machine learning to predict and optimize click-through rate (CTR). The dataset comes from a real-world case study where users were sent marketing emails, and their engagement was tracked.
 
-## 🎯 Objectives
+## Objectives
 
 - Calculate open rate and click rate
 - Build a classification model to predict user clicks
@@ -11,7 +8,7 @@ This project analyzes the performance of an email marketing campaign and applies
 - Perform data-driven segmentation analysis
 - Visualize key behavior patterns across user and email attributes
 
-## 🧠 Machine Learning Workflow
+## Machine Learning Workflow
 
 ### 1. **Data Preparation**
 - Load and merge three datasets:
@@ -40,13 +37,13 @@ This project analyzes the performance of an email marketing campaign and applies
 
 ### 5. **Segmentation Insights**
 Visualizations included:
-- 📬 CTR by email version (personalized/generic)
-- 📅 Behavior over weekday
-- 🕐 Click patterns by hour of send
-- 🌍 CTR by top countries
-- ✍️ CTR by combinations of text length & personalization
-- 💸 User purchase history vs engagement
+-  CTR by email version (personalized/generic)
+-  Behavior over weekday
+-  Click patterns by hour of send
+-  CTR by top countries
+-  CTR by combinations of text length & personalization
+-  User purchase history vs engagement
 
 
-## 🖥️ Requirements
+##  Requirements
 install pandas numpy matplotlib seaborn scikit-learn shap
