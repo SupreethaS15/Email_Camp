@@ -46,4 +46,4 @@ Visualizations included:
 
 
 ##  Requirements
-install pandas numpy matplotlib seaborn scikit-learn shap
+install pandas numpy matplotlib seaborn scikit-learn
